@@ -38,6 +38,9 @@ dependencies:
   flutter_spinkit: ^5.1.0   #for spinner
   flutter_locales: ^2.0.0   #for localization
 
+  #flutter_barcode_scanner:
+  flutter_barcode_scanner: ^2.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

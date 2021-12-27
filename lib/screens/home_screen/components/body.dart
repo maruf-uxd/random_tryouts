@@ -3,6 +3,7 @@ import 'package:flutter_locales/flutter_locales.dart';
 import 'package:random_tryouts/components/rounded_button.dart';
 import 'package:random_tryouts/screens/home_screen/components/background.dart';
 import 'package:random_tryouts/screens/ip_details_screen/ip_details_screen.dart';
+import 'package:random_tryouts/screens/qr_scanner_screen/qr_scanner_screen.dart';
 import 'package:random_tryouts/utils/helper.dart';
 
 int count = 0;
@@ -79,16 +80,16 @@ class _BodyState extends State<Body> {
               ),
             ),
           ),
-          // RoundedButton(
-          //   text: "IP details",
-          //   press: () {
-          //     // Helper.toast(context, "\"IP details\" work in progress", 2, Colors.blue);
-          //     Navigator.push(
-          //       context,
-          //       MaterialPageRoute(builder: (context) => IPDetailsScreen()),
-          //     );
-          //   },
-          // ),
+          RoundedButton(
+            text: "QR Scan",
+            press: () {
+              // Helper.toast(context, "\"QR Scan\" work in progress", 2, Colors.blue);
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => QRScreen()),
+              );
+            },
+          ),
           RoundedButton(
             text: "Localization",
             press: () {

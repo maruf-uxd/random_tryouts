@@ -70,3 +70,12 @@ In this project we will try out different things. Read the followings according 
 
 That's all
 
+
+
+## For QRScan (flutter_barcode_scanner)
+- First add the following line in pubspec.yaml under dependencies
+  flutter_barcode_scanner: ^2.0.0
+  
+- Add QRScan code in the "qr_scanner_screen/components/body.dart" file
+
+- Now call the screen to work like a charm
