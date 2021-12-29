@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_locales/flutter_locales.dart';
 import 'package:random_tryouts/components/rounded_button.dart';
+import 'package:random_tryouts/screens/bmi_calculator/bmi_calculator_screen.dart';
 import 'package:random_tryouts/screens/home_screen/components/background.dart';
 import 'package:random_tryouts/screens/ip_details_screen/ip_details_screen.dart';
 import 'package:random_tryouts/screens/qr_scanner_screen/qr_scanner_screen.dart';
+import 'package:random_tryouts/screens/test_screen/test_screen.dart';
 import 'package:random_tryouts/utils/helper.dart';
 
 int count = 0;
@@ -18,6 +21,13 @@ class Body extends StatefulWidget {
 }
 
 class _BodyState extends State<Body> {
+  @override
+  void initState() {
+    // TODO: implement initState
+    SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: SystemUiOverlay.values);
+    super.initState();
+  }
+
   @override
   Widget build(BuildContext context) {
     void changeLocalization() {
@@ -94,6 +104,17 @@ class _BodyState extends State<Body> {
             text: "Localization",
             press: () {
               changeLocalization();
+            },
+          ),
+          RoundedButton(
+            text: "BMI Calculator",
+            press: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => BMICalculatorScreen(),
+                ),
+              );
             },
           ),
         ],
