@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
   // to make full screen, make stateful widget and add the following in initial state
   @override
   void initState() {
-    SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
+    // SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
     super.initState();
   }
 
