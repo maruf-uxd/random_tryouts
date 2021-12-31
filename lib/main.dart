@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_locales/flutter_locales.dart';
 import 'package:random_tryouts/screens/home_screen/home_screen.dart';
+import 'package:random_tryouts/screens/splash_screen/splash_screen.dart';
 
 void main() async {
 
@@ -51,7 +52,7 @@ class _MyAppState extends State<MyApp> {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: HomeScreen(),
+        home: SplashScreen(),
       ),
     );
   }

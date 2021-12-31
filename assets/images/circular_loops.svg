@@ -1,0 +1,187 @@
+<svg width="360" height="358" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle opacity=".043" cx="209.107" cy="126.64" r="87.92"
+        transform="rotate(-124 209.107 126.64)" stroke="url(#a)" stroke-width=".5" />
+    <circle opacity=".087" cx="252.57" cy="144.466" r="87.92"
+        transform="rotate(-102 252.57 144.466)" stroke="url(#b)" stroke-width=".5" />
+    <circle opacity=".13" cx="286.142" cy="177.521" r="87.92"
+        transform="rotate(-80 286.142 177.521)" stroke="url(#c)" stroke-width=".5" />
+    <circle opacity=".174" cx="304.84" cy="220.991" r="87.92" transform="rotate(-58 304.84 220.991)"
+        stroke="url(#d)" stroke-width=".5" />
+    <circle opacity=".217" cx="305.844" cy="268.547" r="87.92"
+        transform="rotate(-36 305.844 268.547)" stroke="url(#e)" stroke-width=".5" />
+    <circle opacity=".261" cx="288.912" cy="313.262" r="87.92"
+        transform="rotate(-14 288.912 313.262)" stroke="url(#f)" stroke-width=".5" />
+    <circle opacity=".304" cx="256.415" cy="348.624" r="87.92" transform="rotate(8 256.415 348.624)"
+        stroke="url(#g)" stroke-width=".5" />
+    <circle opacity=".348" cx="212.99" cy="369.483" r="87.92" transform="rotate(30 212.99 369.483)"
+        stroke="url(#h)" stroke-width=".5" />
+    <circle opacity=".391" cx="164.865" cy="372.803" r="87.92"
+        transform="rotate(52 164.865 372.803)" stroke="url(#i)" stroke-width=".5" />
+    <circle opacity=".435" cx="118.952" cy="358.098" r="87.92"
+        transform="rotate(74 118.952 358.098)" stroke="url(#j)" stroke-width=".5" />
+    <circle opacity=".478" cx="81.844" cy="327.512" r="87.92" transform="rotate(96 81.844 327.512)"
+        stroke="url(#k)" stroke-width=".5" />
+    <circle opacity=".522" cx="58.847" cy="285.497" r="87.92" transform="rotate(118 58.847 285.497)"
+        stroke="url(#l)" stroke-width=".5" />
+    <circle opacity=".565" cx="53.217" cy="238.173" r="87.92" transform="rotate(140 53.217 238.173)"
+        stroke="url(#m)" stroke-width=".5" />
+    <circle opacity=".609" cx="65.676" cy="192.432" r="87.92" transform="rotate(162 65.676 192.432)"
+        stroke="url(#n)" stroke-width=".5" />
+    <circle opacity=".652" cx="94.315" cy="154.935" r="87.92"
+        transform="rotate(-176 94.315 154.935)" stroke="url(#o)" stroke-width=".5" />
+    <circle opacity=".696" cx="134.867" cy="131.143" r="87.92"
+        transform="rotate(-154 134.867 131.143)" stroke="url(#p)" stroke-width=".5" />
+    <circle opacity=".739" cx="181.332" cy="124.52" r="87.92"
+        transform="rotate(-132 181.332 124.52)" stroke="url(#q)" stroke-width=".5" />
+    <circle opacity=".783" cx="226.846" cy="136.032" r="87.92"
+        transform="rotate(-110 226.846 136.032)" stroke="url(#r)" stroke-width=".5" />
+    <circle opacity=".826" cx="264.686" cy="164.002" r="87.92"
+        transform="rotate(-88 264.686 164.002)" stroke="url(#s)" stroke-width=".5" />
+    <circle opacity=".87" cx="289.245" cy="204.355" r="87.92"
+        transform="rotate(-66 289.245 204.355)" stroke="url(#t)" stroke-width=".5" />
+    <circle opacity=".913" cx="296.852" cy="251.217" r="87.92"
+        transform="rotate(-44 296.852 251.217)" stroke="url(#u)" stroke-width=".5" />
+    <circle opacity=".957" cx="286.301" cy="297.762" r="87.92"
+        transform="rotate(-22 286.301 297.762)" stroke="url(#v)" stroke-width=".5" />
+    <circle cx="259.036" cy="337.211" r="87.92" stroke="url(#w)" stroke-width=".5" />
+    <defs>
+        <linearGradient id="a" x1="120.937" y1="38.47" x2="297.277" y2="214.81"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="b" x1="164.4" y1="56.296" x2="340.74" y2="232.636"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="c" x1="197.972" y1="89.351" x2="374.313" y2="265.691"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="d" x1="216.67" y1="132.821" x2="393.01" y2="309.161"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="e" x1="217.674" y1="180.377" x2="394.014" y2="356.717"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="f" x1="200.742" y1="225.091" x2="377.082" y2="401.432"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="g" x1="168.245" y1="260.454" x2="344.585" y2="436.794"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="h" x1="124.82" y1="281.313" x2="301.16" y2="457.653"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="i" x1="76.695" y1="284.633" x2="253.035" y2="460.973"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="j" x1="30.782" y1="269.928" x2="207.122" y2="446.268"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="k" x1="-6.326" y1="239.341" x2="170.014" y2="415.682"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="l" x1="-29.323" y1="197.327" x2="147.017" y2="373.667"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="m" x1="-34.953" y1="150.003" x2="141.387" y2="326.343"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="n" x1="-22.494" y1="104.262" x2="153.846" y2="280.602"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="o" x1="6.145" y1="66.765" x2="182.485" y2="243.105"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="p" x1="46.697" y1="42.973" x2="223.038" y2="219.313"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="q" x1="93.162" y1="36.35" x2="269.502" y2="212.69"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="r" x1="138.676" y1="47.862" x2="315.016" y2="224.202"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="s" x1="176.516" y1="75.831" x2="352.857" y2="252.172"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="t" x1="201.075" y1="116.185" x2="377.415" y2="292.525"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="u" x1="208.682" y1="163.047" x2="385.022" y2="339.387"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="v" x1="198.131" y1="209.591" x2="374.471" y2="385.932"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+        <linearGradient id="w" x1="170.866" y1="249.041" x2="347.206" y2="425.381"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00ADF7" />
+            <stop offset=".766" stop-color="#FF00B8" />
+            <stop offset="1" stop-color="#FF00B8" />
+        </linearGradient>
+    </defs>
+</svg>
