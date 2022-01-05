@@ -69,8 +69,21 @@ class _BodyState extends State<Body> {
             ),
             Container(
               margin: EdgeInsets.symmetric(vertical: 10),
-              height: 60,
-              width: size.width * 0.6,
+              height: 55,
+              width: size.width * 0.8,
+              decoration: BoxDecoration(
+                borderRadius: const BorderRadius.all(
+                  Radius.circular(25.0),
+                ),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black12.withOpacity(0.2),
+                    spreadRadius: 4,
+                    blurRadius: 10,
+                    offset: Offset(0, 3),
+                  ),
+                ],
+              ),
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(29),
                 child: TextButton(
@@ -87,12 +100,10 @@ class _BodyState extends State<Body> {
                       ),
                     );
                   },
-                  child: const FittedBox(
-                    child: LocaleText(
-                      "ipDetails",
-                      style: TextStyle(
-                        color: Colors.white,
-                      ),
+                  child: LocaleText(
+                    "ipDetails",
+                    style: TextStyle(
+                      color: Colors.white,
                     ),
                   ),
                 ),

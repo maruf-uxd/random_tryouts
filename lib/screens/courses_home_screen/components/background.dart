@@ -38,21 +38,30 @@ class Background extends StatelessWidget {
             top: 0,
             left: 0,
             right: 0,
-            child: Container(
+            child: FittedBox(
               child: Image.asset(
                 "assets/images/squared_loops.png",
-                width: size.width,
               ),
+              fit: BoxFit.fitWidth,
+              // child: SvgPicture.asset(
+              //   "assets/images/circular_loops.svg",
+              //   width: size.width,
+              // ),
             ),
           ),
           Positioned(
             bottom: 0,
+            left: 0,
             right: 0,
-            child: Container(
+            child: FittedBox(
               child: Image.asset(
                 "assets/images/circular_loops.png",
-                width: size.width,
               ),
+              fit: BoxFit.fitWidth,
+              // child: SvgPicture.asset(
+              //   "assets/images/circular_loops.svg",
+              //   width: size.width,
+              // ),
             ),
           ),
           child,
